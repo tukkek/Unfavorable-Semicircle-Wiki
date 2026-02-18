@@ -65,3 +65,23 @@ In 2026-02 N25 CT13 writes:
 ![fend.flip.png](fend.flip.png)
 
 > Mixing the slowed down version of the audio with the regular one isn't very clean so maybe 0.25 isn't the exact speed multiplier to cancel it out perfectly.
+
+## Sinc impulse
+> ben's fractals: these waveforms on FEND subgroup B and C are sinc impulses, https://en.wikipedia.org/wiki/Sinc_function
+> 
+> This probably means that the audio was resampled from a really low sample rate back to 44100hz
+
+[![fend.sinc.webp](fend.sinc.webp)](fend.sinc.full.webp)
+
+## Relation to Fond
+> ben's fractals: Fond and Fend are related audio wise
+>
+> In the right channel of FOND 5 you can see it transition from FEND subgroup B to FEND subgroup C
+
+[![fend.fond.webp](fend.fond.webp)](fend.fond.full.webp)
+
+> N25_CT13: the repeating beginning section has 25/26 big peaks (first one possibly cut off at the start) and 10 small peaks
+> 
+> it could be letters and numbers in order (A to Z; 0 to9) being put there as peaks to refer to as an alphabet when reading the more random section of peaks
+
+[![fend.peaks.webp](fend.peaks.webp)](fend.peaks.full.webp)

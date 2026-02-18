@@ -53,6 +53,7 @@ fact that he was talking about "what if he had a video named after him"
 and it was uploaded.
 
 ## Links
+* [Fend](Fend)'s audio may be related to Fond's
 * ♐FOND 0, https://youtu.be/3a9LSIXuKNc.
 * ♐FOND 1, https://youtu.be/Jbz7Ayc_zVs.
 * ♐FOND 2, https://youtu.be/6YK1oXbnYvw.
