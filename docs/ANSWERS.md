@@ -2,10 +2,9 @@
 
 ♐️ANSWERS was the title of a tweet posted to the ([@unfavorablesem](https://twitter.com/unfavorablesem)) Twitter account on June 9, 2022. It was in respose to a list of questions submitted by Discord users (see below) and _prima facie_ brings closure to the mysteries of Unfavorable Semicircle. (Though see "Questions of Authenticity" below.)
 
-![♐️ANSWERS tweet image](answers.jpg "♐️ANSWERS tweet image")
+![image](answers.jpg)
 
 ## Transcription of text in image
-
 _**Note:** for additional clarity the questions that triggered these responses are included **in bold** before the responses._
 
 > <code>I offer my words of gratitude for your interest in this project. I was continually humbled by all your brilliance in a way that hard to express in words. You all have exposed me to so many wonderful bits of art, technology, and writing that I never knew about before. </code>
@@ -192,18 +191,12 @@ _**Note:** for additional clarity the questions that triggered these responses a
 
 _transcription by Discord user &&_
 
-## Full list of submitted questions
-
-_see_ [unfavorablesem AMA](unfavorablesem_AMA)
-
 ## Revelations from this message
-
-- that there are unfound [Stabilitory newing](Stabilitory_newing) composites
-- that there is a "hidden poem" somewhere in the videos
-- "There was never any pen-testing/hacking/clandestine goals of any kind."
+- That there are unfound [Stabilitory newing](Stabilitory_newing) composites
+- That there is a "hidden poem" somewhere in the videos
+- "There was never any pen-testing; hacking; clandestine goals of any kind"
 
 ## Questions of authenticity
-
 Further research (and, ultimately, personal opinion) will determine if this poster is the "real" maker of UFSC. It is not impossible that the "legitimate" Twitter account was hacked or taken control of by a third party, so the internal evidence and "new" revelations from the tweets will have to be weighed to determine whether or not this was a reliable account.
 
 The possibility that this message was written by one member of a larger team or someone only tangentially connected to the original creators (perhaps oven without their full consent) has also been discussed.
@@ -214,8 +207,13 @@ The subsequent discovery of [audio composites](audio_composites) seems to contra
 
 The discovery of the claimed [Stabilitory Newing](Stabilitory_newing) composites in 2025 conversely adds to the authenticity of the message.
 
-## Background image
+## Poll
+A 2026 community poll on Discord had the majority of votes as *I am mostly satisfied with Answers as the resolution to UFSC*. The second most-voted option was *I am mostly dissatisfied with Answers as the resolution to UFSC*. One person voted *fully satisfied with Answers*.
 
+## Background image
 Behind the text is an image "in the style of UFSC", which may warrant further analysis. Discord user noxxy observed there is a "sneaky semicircle ♐ icon in the bottom left" of the image.
 
 ![♐️answers detail](answers_detail.png "♐️ANSWERS detail")
+
+## See also
+* [Full list of submitted questions](unfavorablesem_AMA)
