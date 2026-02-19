@@ -9,21 +9,24 @@ The composites made from the videos are generally color gradients.
 
 ## 2D composite
 This composite by Tomas F is a long image with several colored bars:
+
 ![FEND_composite.png](FEND_composite.png)
 
 It is worth noting that one section near the beginning of the combined gradient composite had an "island" like object in it:
 
 Detail from ♐FEND 2D composite showing "island"-type object:
+
 [![FEND object in 2-d composite.png](FEND_object_in_2-d_composite.png)](FEND_object_in_2-d_composite.full.png)
 
 ## 3D composite
 This 3D composite by Tomas F is several planes crossing through each other with some mountain-like shapes, http://tomasf.se/projects/semi/stl.html?path=FEND_composite3D.stl.
 
 ♐FEND 3D composite, view #1:
+
 [![FEND 3-d composite, view 1.png](FEND_3-d_composite,_view_1.png)](FEND_3-d_composite,_view_1.full.png)
 
-
 ♐FEND 3D composite, view #2:
+
 ![FEND 3-d composite, view 2.png](FEND_3-d_composite,_view_2.png)
 
 ## Audio
@@ -59,12 +62,6 @@ In 2026-02 N25 CT13 writes:
 > You have to amplify the audio quite a bit to be able to see this.
 >
 > I kind of feel that it could be noise and some kind of "audio encoding artifact".
->
-> Slowing down that repeating left channel by 4 times does make it around the same length as the next section
-
-![fend.flip.png](fend.flip.png)
-
-> Mixing the slowed down version of the audio with the regular one isn't very clean so maybe 0.25 isn't the exact speed multiplier to cancel it out perfectly.
 
 ## Sinc impulse
 > ben's fractals: these waveforms on FEND subgroup B and C are sinc impulses, https://en.wikipedia.org/wiki/Sinc_function
